@@ -1,4 +1,4 @@
-<img src="Meghana.png" alt="GitHub Banner" width="100%" />
+<img src="downlods/Meghana.png" alt="GitHub Banner" width="100%" />
 <br clear="both">
 
 <h1 align="left">Hello World! I'm Meghana K 👋🏼</h1>
